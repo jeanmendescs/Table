@@ -42,7 +42,7 @@ Para rodar aplicação faça o seguinte:
 ```bash
 # Clone este repositório
 
-git clone https://github.com/jeanmendescs/To-do.git
+git clone https://github.com/jeanmendescs/Table.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd todo
