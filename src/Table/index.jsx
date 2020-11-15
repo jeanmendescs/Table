@@ -63,7 +63,7 @@ class Table extends Component {
   render() {
     return (
       <div>
-        <h1 id="title">Table</h1>
+        <h1 id="title">Sortable Table</h1>
         <table id="students">
           <thead>
             <tr>
